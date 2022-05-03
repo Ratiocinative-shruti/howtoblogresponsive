@@ -627,6 +627,7 @@ ul{
     }
     .footer-div {
         display: grid;
+        justify-content: center;
     }
     .link-div1, .comapny-div1, .contact-div1 {
         display: grid;
@@ -742,7 +743,11 @@ ul{
         line-height: 35px;
         font-size: 9.5px;
     }
-
+    .footer-div {
+        display: grid;
+        justify-content: inherit;
+        padding-left: 35px;
+    }
     .bb-2 a, .bb-2 p {
         font-size: 8px;
     }
@@ -786,6 +791,6 @@ ul{
         width: 85%;
     }
     .page {
-        margin: 10px;
+        margin:0px;
     }
 }
