@@ -336,7 +336,10 @@ p.footer-p2 {
     max-width: 315px;
     padding-top: 8px;
 }
-
+.plane {
+    position: relative;
+    right: 40px;
+}
 input.form-input1 {
     border: 1px solid white;
     border-radius: 8px;
@@ -561,7 +564,7 @@ ul{
         padding: 10px 38px;
     } 
     input.form-input1 {
-        min-width: 250px;
+        min-width: 300px;
     }
 }
 /*media query at 925px*/
@@ -726,9 +729,6 @@ ul{
         top: 20px;
         min-height: 35.5px;
         min-width: 32px;
-    }
-    input.form-input1 {
-        min-width: 190px;
     }
     .bottom-banner {
         padding: 140px 0px;
