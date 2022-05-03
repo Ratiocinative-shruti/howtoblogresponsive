@@ -175,6 +175,12 @@ input.form-input {
     border:none;
     margin-right: 25px;
 }
+.main-list-2.xyz {
+    padding: 19.8px;
+}
+.main-list-2.xyz1 {
+    padding: 24px;
+}
 #abc{
     background-color: #3384ed;
     color: white;
