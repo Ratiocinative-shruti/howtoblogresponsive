@@ -661,6 +661,12 @@ ul{
     .button-1 {
         display: block;
     }
+    .footer-div {
+        padding-left: 20px; 
+    }
+    .page{
+        margin: 0px;
+    }
     li.ul-text1 {
         background-color: #ffd3ca;
         padding: 10px;
