@@ -737,7 +737,7 @@ ul{
 }
 @media screen and ( max-width:400px ) { 
     .plane-form {
-        max-width: 300px;
+        max-width: 225px;
     }
     .links-div ul li, .contact ul li, .company ul li {
         line-height: 35px;
@@ -773,6 +773,9 @@ ul{
         min-width: 237px;
         min-height: 52px;
         padding-left: 0px;
+    }
+    input.form-input1 {
+        min-width: 225px;
     }
     .form::after {
         right: -16px;
