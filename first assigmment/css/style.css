@@ -773,4 +773,7 @@ ul{
     .main-list-2 {
         width: 85%;
     }
+    .page {
+        margin: 10px;
+    }
 }
