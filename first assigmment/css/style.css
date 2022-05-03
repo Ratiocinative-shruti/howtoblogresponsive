@@ -710,8 +710,10 @@ ul{
         padding-top: 20px;
     }
     .form::after {
-        right: 0;
-        top: 19.5px;
+        right: -1px;
+        top: 20px;
+        min-height: 35.5px;
+        min-width: 32px;
     }
     input.form-input1 {
         min-width: 190px;
