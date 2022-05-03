@@ -737,7 +737,7 @@ ul{
 }
 @media screen and ( max-width:400px ) { 
     .plane-form {
-        max-width: 180px;
+        max-width: 300px;
     }
     .links-div ul li, .contact ul li, .company ul li {
         line-height: 35px;
